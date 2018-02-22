@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheArtOfUnitTestingPractice", "TheArtOfUnitTestingPractice.csproj", "{BBA2AA41-BCD5-4F3A-BC05-7EDDEFA858F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheArtOfUnitTestingPractice.UnitTests", "..\TheArtOfUnitTestingPractice.UnitTests\TheArtOfUnitTestingPractice.UnitTests.csproj", "{C211E96B-AB43-42AF-9516-3E96FF7FD628}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BBA2AA41-BCD5-4F3A-BC05-7EDDEFA858F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBA2AA41-BCD5-4F3A-BC05-7EDDEFA858F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBA2AA41-BCD5-4F3A-BC05-7EDDEFA858F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C211E96B-AB43-42AF-9516-3E96FF7FD628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C211E96B-AB43-42AF-9516-3E96FF7FD628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C211E96B-AB43-42AF-9516-3E96FF7FD628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C211E96B-AB43-42AF-9516-3E96FF7FD628}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
