@@ -23,6 +23,7 @@ namespace TheArtOfUnitTestingPractice.Ch2
             {
                 return false;
             }
+
             WasLastFileNameValid = true;
             return true;
         }

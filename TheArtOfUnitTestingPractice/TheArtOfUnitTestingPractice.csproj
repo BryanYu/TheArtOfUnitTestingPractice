@@ -45,7 +45,7 @@
     <Compile Include="Ch1\SimpleParser.cs" />
     <Compile Include="Ch1\SimpleParserTests.cs" />
     <Compile Include="Ch1\TestUtil.cs" />
-    <Compile Include="LogAnalyzer.cs" />
+    <Compile Include="Ch2\LogAnalyzer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
