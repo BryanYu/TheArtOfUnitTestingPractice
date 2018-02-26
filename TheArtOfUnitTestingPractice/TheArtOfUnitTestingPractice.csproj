@@ -47,6 +47,9 @@
     <Compile Include="Ch1\TestUtil.cs" />
     <Compile Include="Ch2\LogAnalyzer.cs" />
     <Compile Include="Ch3\LogAnalyzer.cs" />
+    <Compile Include="Ch4\FakeWebService.cs" />
+    <Compile Include="Ch4\IWebServe.cs" />
+    <Compile Include="Ch4\LogAnalyzer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
