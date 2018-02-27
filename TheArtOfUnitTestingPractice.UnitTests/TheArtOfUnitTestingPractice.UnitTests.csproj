@@ -46,6 +46,8 @@
   <ItemGroup>
     <Compile Include="Ch2\LogAnalyzerTests.cs" />
     <Compile Include="Ch3\LogAnalyzerTests.cs" />
+    <Compile Include="Ch4\FakeEmailService.cs" />
+    <Compile Include="Ch4\LogAnalyzer2Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

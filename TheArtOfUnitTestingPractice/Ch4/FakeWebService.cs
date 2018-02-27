@@ -1,12 +1,19 @@
-﻿namespace TheArtOfUnitTestingPractice.Ch4
+﻿using System;
+
+namespace TheArtOfUnitTestingPractice.Ch4
 {
-    public class FakeWebService : IWebServe
+    public class FakeWebService : IWebService
     {
         public string LastError;
 
+        public Exception ToThrow;
+
         public void LogError(string message)
         {
-            this.LastError = message;
+            if (this.ToThrow != null)
+            {
+                throw this.ToThrow;
+            }
         }
     }
 }

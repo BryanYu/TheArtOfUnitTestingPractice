@@ -2,9 +2,9 @@
 {
     public class LogAnalyzer
     {
-        private IWebServe service;
+        private IWebService service;
 
-        public LogAnalyzer(IWebServe service)
+        public LogAnalyzer(IWebService service)
         {
             this.service = service;
         }

@@ -4,9 +4,7 @@ using System.Linq;
 using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
-
 using NUnit.Framework;
-
 using TheArtOfUnitTestingPractice.Ch3;
 
 namespace TheArtOfUnitTestingPractice.UnitTests.Ch3
