@@ -53,6 +53,13 @@
     <Compile Include="Ch4\IWebService.cs" />
     <Compile Include="Ch4\LogAnalyzer.cs" />
     <Compile Include="Ch4\LogAnalyzer2.cs" />
+    <Compile Include="Ch5\FakeLogger.cs" />
+    <Compile Include="Ch5\FakeLogger2.cs" />
+    <Compile Include="Ch5\FakeWebService.cs" />
+    <Compile Include="Ch5\ILogger.cs" />
+    <Compile Include="Ch5\IWebService.cs" />
+    <Compile Include="Ch5\LogAnalyzer.cs" />
+    <Compile Include="Ch5\LogAnalyzer2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
